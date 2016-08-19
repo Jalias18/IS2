@@ -1,4 +1,6 @@
 public class prueba{
-dsfdfsdfds
+    public void Stalin(){
+    
+    }
 
 }
